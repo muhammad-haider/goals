@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "node beckend/server.js",
-    "server": "nodemon beckend/server.js"
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
   },
   "dependencies": {
     "body-parser": "^1.20.1",
